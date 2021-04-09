@@ -1,2 +1,2 @@
-# -lofi4.github.io-wonders
+# lofi4.github.io-wonders
 wonders
